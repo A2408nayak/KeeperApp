@@ -11,13 +11,12 @@ This is a solution to the [Keeper App Project](https://www.udemy.com/course/the-
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
-- [Author](#author)
 
 ## Overview
 
 ### The challenge
 
-- Create a Keeper App using React that is a similar clone of Google Keep.
+- Create a Keeper App using React that is a similar clone to Google Keep.
 
 ### Screenshots
 ![KeeperAppScreenshot](https://user-images.githubusercontent.com/67170897/135128596-f92d5036-cfd9-4953-aa21-fb0f09397e84.PNG)
@@ -26,7 +25,7 @@ This is a solution to the [Keeper App Project](https://www.udemy.com/course/the-
 
 ### Links
 
-- Solution URL: [https://github.com/fotinh0/keeper-app](https://github.com/fotinh0/keeper-app)
+- Solution URL: [https://github.com/fotinh0/keeper-app]((https://github.com/A2408nayak/KeeperApp))
 - Live Site URL: [https://keeper-app-fc.netlify.app/](https://keeper-app-fc.netlify.app/)   [![Netlify Status](https://api.netlify.com/api/v1/badges/f4f81921-d934-4e10-aa92-2b4334da5815/deploy-status)](https://app.netlify.com/sites/keeper-app-fc/deploys)
 
 ## My Process
